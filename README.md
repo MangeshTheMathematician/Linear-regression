@@ -1,3 +1,2 @@
 # Linear-regression
-<br>
-Author- Mangesh Bodke 
+Basic <br? Author- Mangesh Bodke 
